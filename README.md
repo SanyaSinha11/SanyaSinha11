@@ -11,6 +11,18 @@
   <a href="https://www.youtube.com/@sanyasinha11" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+  
+  <a href="https://tryhackme.com/p/boogie.woogie" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/sanya_11/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Sanya_11/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
@@ -25,14 +37,14 @@
 
 ---
 
-### 🧑‍🎓 Education
+## 🧑‍🎓 Education
 
 **B.Tech in CSE (Cyber Security & Forensics)** – UPES, Dehradun (2022–2026)  
 **CGPA:** 8.89
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -51,7 +63,7 @@
 
 ---
 
-### 📌 Recent Projects
+## 📌 Recent Projects
 
 #### 🧩 Zero Trust VPN (Jan–May 2025)
 - Built using **OpenVPN, WireGuard, NodeJS, MariaDB, Python**
@@ -69,13 +81,13 @@
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 - 🥇 **Best White Paper** – International Conference on Advancements in Cyber Security and Digital Forensics 2025 (UPES Student Symposium) for original research on emerging security challenges.
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
 - 🛡️ **Incident Response & Email Forensics** – SysTools, 2025  
 - 🌐 **Cybersecurity Essentials** – Cisco Networking Academy, 2025  
@@ -84,7 +96,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanyaSinha11&show_icons=true&theme=radical" width="450"/>
