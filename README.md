@@ -65,6 +65,10 @@
 
 ## 📌 Recent Projects
 
+#### 🚀 Automated Web Hosting Tool – Celebal Technologies (June–Aug 2025)
+- One-click deployment and replication tool with **secure UAT & PROD environments**
+- Hands-on experience with **Azure Networking, NSGs, Subnets, VPNs**
+
 #### 🧩 Zero Trust VPN (Jan–May 2025)
 - Built using **OpenVPN, WireGuard, NodeJS, MariaDB, Python**
 - Developed device compliance checks, 2FA integration, and asynchronous services
@@ -74,10 +78,6 @@
 - Implemented with **GoLang, NodeJS, MariaDB**
 - Enforced custom domain/IP filters, real-time logging APIs
 - Built RESTful APIs and backend using stateless architecture
-
-#### 🚀 Automated Web Hosting Tool – Celebal Technologies (June–Aug 2025)
-- One-click deployment and replication tool with **secure UAT & PROD environments**
-- Hands-on experience with **Azure Networking, NSGs, Subnets, VPNs**
 
 ---
 
@@ -90,7 +90,7 @@
 ## 📜 Certifications
 
 - 🛡️ **Incident Response & Email Forensics** – SysTools, 2025  
-- 🌐 **Cybersecurity Essentials** – Cisco Networking Academy, 2025  
+- 🌐 **Cybersecurity Essentials** – Cisco Networking Academy, 2025
 - 📊 **Web Analytics** – Accenture, 2024  
 - 🧭 **Governance & Ethics** – London School of Business & Finance, 2024
 
