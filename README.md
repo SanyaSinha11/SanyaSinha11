@@ -40,7 +40,7 @@
 ## 🧑‍🎓 Education
 
 **B.Tech in CSE (Cyber Security & Forensics)** – UPES, Dehradun (2022–2026)  
-**CGPA:** 8.89
+**CGPA:** 8.9
 
 ---
 
