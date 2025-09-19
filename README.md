@@ -65,16 +65,16 @@
 
 ## 📌 Recent Projects
 
-#### 🚀 Automated Web Hosting Tool – Celebal Technologies (June–Aug 2025)
+#### 🚀 Automated Web Hosting Tool (June–Aug 2025)
 - One-click deployment and replication tool with **secure UAT & PROD environments**
 - Hands-on experience with **Azure Networking, NSGs, Subnets, VPNs**
 
-#### 🧩 Zero Trust VPN (Jan–May 2025)
-- Built using **OpenVPN, WireGuard, NodeJS, MariaDB, Python**
+#### 🧩 Identity and Posture based VPN (Jan–May 2025)
+- Conceived using **OpenVPN, WireGuard, NodeJS, MariaDB, Python**
 - Developed device compliance checks, 2FA integration, and asynchronous services
-- Access control based on **identity and device health**, not network location
+- Access control based on **identity and device health**
 
-#### 🔐 Secure Web Gateway – SASE Implementation (Aug–Dec 2024)
+#### 🔐 Secure Web Gateway (Aug–Dec 2024)
 - Implemented with **GoLang, NodeJS, MariaDB**
 - Enforced custom domain/IP filters, real-time logging APIs
 - Built RESTful APIs and backend using stateless architecture
