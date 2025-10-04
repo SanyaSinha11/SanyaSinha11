@@ -63,36 +63,9 @@
 
 ---
 
-## 📌 Recent Projects
-
-#### 🚀 Automated Web Hosting Tool (June–Aug 2025)
-- One-click deployment and replication tool with **secure UAT & PROD environments**
-- Hands-on experience with **Azure Networking, NSGs, Subnets, VPNs**
-
-#### 🧩 Identity and Posture based VPN (Jan–May 2025)
-- Conceived using **OpenVPN, WireGuard, NodeJS, MariaDB, Python**
-- Developed device compliance checks, 2FA integration, and asynchronous services
-- Access control based on **identity and device health**
-
-#### 🔐 Secure Web Gateway (Aug–Dec 2024)
-- Implemented with **GoLang, NodeJS, MariaDB**
-- Enforced custom domain/IP filters, real-time logging APIs
-- Built RESTful APIs and backend using stateless architecture
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **Best White Paper** – International Conference on Advancements in Cyber Security and Digital Forensics 2025 (UPES Student Symposium) for original research on emerging security challenges.
-
----
-
-## 📜 Certifications
-
-- 🛡️ **Incident Response & Email Forensics** – SysTools, 2025  
-- 🌐 **Cybersecurity Essentials** – Cisco Networking Academy, 2025
-- 📊 **Web Analytics** – Accenture, 2024  
-- 🧭 **Governance & Ethics** – London School of Business & Finance, 2024
 
 ---
 
