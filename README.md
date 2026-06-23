@@ -72,8 +72,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanyaSinha11&show_icons=true&theme=radical" width="450"/>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaSinha11&layout=compact&theme=radical" width="350"/>
 </p>
 
